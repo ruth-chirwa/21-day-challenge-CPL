@@ -13,5 +13,6 @@ body{
 }
 .child{
     background-color: rgb(84, 84, 193);
+    width: 60%;
     height: 250px;
 }
