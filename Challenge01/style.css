@@ -33,9 +33,9 @@ body {
 }
 .intro-content{
   overflow: hidden;
-  width: 40%;
+ 
 }
 h1, p{
   text-align: left;
-  
+  width: 40%;
 }
