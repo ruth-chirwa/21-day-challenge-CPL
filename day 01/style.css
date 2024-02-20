@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.parent{
+    background-color: rgb(69, 69, 84);
+    padding: 50px;
+    /*width: 900px;*/
+    margin: 0 auto;
+}
+.child{
+    background-color: rgb(84, 84, 193);
+    height: 250px;
+}
