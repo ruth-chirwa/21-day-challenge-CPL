@@ -10,4 +10,6 @@ body{
     color: white;
     width: 80%;
     margin: 0 auto;
+    padding: 5em;
+    /*height: 300px;*/
 }
