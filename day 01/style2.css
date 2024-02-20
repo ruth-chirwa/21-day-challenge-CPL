@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.container{
+    background: #2342a4;
+    color: white;
+    width: 80%;
+    margin: 0 auto;
+}
