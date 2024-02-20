@@ -9,6 +9,7 @@ body{
     padding: 50px;
     /*width: 900px;*/
     margin: 0 auto;
+    width: 80%;
 }
 .child{
     background-color: rgb(84, 84, 193);
