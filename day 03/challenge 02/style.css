@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.body-content{
+    background: #23424a;
+    color: white;
+}
+.container{
+    width: 80%;
+    max-width: 750px;
+    padding: 50px 0;
+    margin: 0 auto;
+}
+
+.into-content{
+    width: 50%;
+}
