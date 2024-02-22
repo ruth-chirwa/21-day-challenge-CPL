@@ -26,16 +26,18 @@ body {
   color: white;
 
   width: 80%;
+  max-width: 750px;
   margin: 0 auto;
 
   padding: 2em;
   
 }
 .intro-content{
-  overflow: hidden;
+  /*overflow: hidden;*/
+  width: 50%;
  
 }
-h1, p{
+/*h1, p{
   text-align: left;
   width: 40%;
-}
+}/*
