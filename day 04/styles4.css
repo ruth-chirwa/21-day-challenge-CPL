@@ -7,7 +7,7 @@
   }
   .intro{
      background: #23424a;
-   
+   overflow: hidden;
   }
   .container{
     width: 80%;
@@ -16,15 +16,16 @@
     padding: 50px 0;
   }
   .intro-content{
-    width: 65%;
+    width: 70%;
   }
+ 
   button{
     margin-top: 3em;
     background-color: rgb(46, 206, 238);
     border-radius: 25px;
     padding: 1em 2em;
     border: none;
-    font-size: 2vh;
+   
     font-weight: bold;
   }
   button:hover{
@@ -34,4 +35,7 @@
   }
   h1, p{
     color: white;
+  }
+  h1{
+    font-size: 2.1em;
   }
