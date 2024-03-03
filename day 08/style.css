@@ -17,6 +17,18 @@
    margin: 0 auto;
     
   }
+  .row{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+  }
+  .col{
+   
+    width: 100%;
+  }
+  .col + .col{
+    margin-left: 30px;
+  }
   .intro-content{
     width: 60%;
   }
