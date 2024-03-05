@@ -20,11 +20,21 @@
   .row{
     display: flex;
     flex-direction: row;
-    gap: 100px;
+    /* gap: 100px; */
+    
+    
   }
   .col{
-   
+    text-align: center;
     width: 100%;
+   margin: 30px;
+  }
+  .footer{
+    background: #136C72;
+    color: #fff;
+  }
+  .heading_two{
+    color: #87629A;
   }
   .col + .col{
     margin-left: 30px;
